@@ -1,0 +1,221 @@
+.mynavbar-form{
+    margin-left: 363px;
+}
+
+.navbar-inverse {
+    background-color: #000000;
+
+
+}
+
+#2{
+    padding-inline-start: 144px;
+}
+
+.navbar-brand img{
+    position: relative;
+    width: 174px;
+    height: auto;
+    top:-4px;
+    margin-left: 14px;
+    
+}
+
+
+ul{
+    padding-inline: 52px;
+    margin-top: 46px;
+
+
+}
+
+.mynav li a{
+    top:58px;
+    font-size:16px; 
+    font-weight: bold;
+    padding: 9px 50px;
+    left: -120px;
+}
+
+
+.mynav-pills li.active a{
+    background-color:rgba(245, 241, 241, 0); 
+    
+    font-family: Rajdhani;
+    font-weight: bold;
+    font-size:16px; 
+}
+
+.nav{
+    margin-bottom: 53px;
+    padding-left: 385px;
+    letter-spacing: 10px;
+}
+
+.mycontainer{
+    margin-top: -40px;
+    position: relative;
+    bottom: -20px;
+}
+
+body{
+    background-color:black;
+    font-family: Lora
+}
+
+.mythumbnail1{
+  position: relative;
+  left: -5px;
+  top:21px;
+  width: 100%;
+  text-align: center
+}
+
+.thumbnail img{
+    position: relative;   
+}
+
+.thumbnail .caption{
+    color:white;
+}
+
+.thumbnail{
+    background-color:black; 
+    border: none;
+}
+
+.panel-footer{
+    background-color:black; 
+    border: none;
+    text-align: center;
+    font-weight: bold;
+    position: relative;
+    left: -5px;
+ 
+}
+
+.myimg {
+    width: 55px;
+    border: 0;
+}
+
+p.panel-footer{
+    text-align: center;
+    font-weight: bold;     
+}
+
+#contact{
+    background-color: #fff;
+    font-family: Lora;    
+}
+
+.mythumbnail2{
+    position: relative;
+    left: 53px;
+    top:21px;
+    width: 114%;
+    text-align: center
+}
+
+.logo_text.logo_text2{
+    color: white;
+    left: 35px;
+}
+
+.logo_text{
+    position: relative;
+    top: 76px;
+    padding-left: 0px;
+    letter-spacing: 29px;
+}
+
+.container-fluid {
+    padding-right: 1px;
+    padding-left: 1px;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.caption2{
+    text-align: center;
+}
+.caption{
+    text-align: left;
+}
+
+.caption3{
+    color: white;
+    text-align: center;
+}
+
+.contact-details{
+    font-weight: bold;
+
+}
+
+
+@media screen and (min-width :320px) and (max-width:568px){
+    
+    .logo_text2{
+        position: relative;
+        left: 83px;
+        top: -28px;
+    }
+
+    .h1{
+        font-size: 10px;
+    }
+
+    #hidden{
+        display: none;
+    }
+
+    .mythumbnail1{
+        position: relative;
+        left: -21px;
+        top:20px;
+        width: 126%;
+        text-align: center
+    }
+
+    .panel-footer{    
+    position: relative;
+    left: -11px;
+    }
+
+    #thumbnail{
+        position: relative;
+        top: 20px;
+    }
+
+    .mythumbnail2{
+        position: relative;
+        left: -5px;
+        top:21px;
+        width: 114%;
+        text-align: center
+    }
+
+    .mycontainer{
+        margin-top: -40px;
+        position: relative;
+        bottom: -20px;
+        width: 114%;
+        left: -15px;
+    }
+
+    .collapse {
+        display: none;
+        margin-top: -69px;
+    }
+
+    .navbar-collapse {
+        padding-right: 14px;
+    }
+
+    .navbar{
+        width:334px;
+    }
+}
+
+  
