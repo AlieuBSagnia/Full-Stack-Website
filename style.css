@@ -56,7 +56,9 @@ ul{
     margin-top: -40px;
     position: relative;
     bottom: -20px;
+    
 }
+.carousel-innerner:hover {opacity: 1}
 
 body{
     background-color:black;
