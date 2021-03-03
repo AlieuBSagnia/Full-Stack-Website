@@ -93,18 +93,41 @@ body{
     font-weight: bold;
     position: relative;
     left: -5px;
+    color: white;
+    
  
 }
 
-.myimg {
+.myimgfooter1 {
     width: 55px;
     border: 0;
+    
+}
+
+.myimgfooter {
+    width: 180px;
+    border: 0;
+    margin-block-start: 24px;    
+}
+
+#site-footer{
+    padding: 5px 0px 5px 0px;
 }
 
 p.panel-footer{
     text-align: center;
     font-weight: bold;     
 }
+
+.inline-block {
+    display: inline-block;
+    
+ }
+
+ p.inline-block{
+     color: #fff;
+     font-size: 15px;
+ }
 
 #contact{
     background-color: #fff;
