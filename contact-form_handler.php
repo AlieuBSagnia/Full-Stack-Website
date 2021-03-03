@@ -1,6 +1,6 @@
 <?php
     $name = $_POST['name'];
-    $surname = $POST['surname']
+    $surname = $_POST['surname'];
     $visitor_email = $_POST['email'];
     $message = $_POST['message'];
 
@@ -12,7 +12,7 @@
                     "Surname: $surname.\n".
                         "User Email: $visitor_email.\n".
                             "User Message: $message.\n";
-    
+
     $to = "interstate1717@gmail.com";
 
     $headers = "From: $email_from \r\n";
