@@ -2,10 +2,10 @@
 
 #### Website view
 
-![Index](image/Home_page.PNG)
+![Index](images/Home_page.PNG)
 > "Index web view"
 
-![Index continued](images/Home_page1.PNG)
+![Index continued](images/Home_page 1.PNG)
 > "Index web view continued"
 
 ![Portfolio page](images/Services_page.PNG)
