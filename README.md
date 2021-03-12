@@ -2,14 +2,14 @@
 
 #### Website view
 
-![Index](images/.PNG)
+![Index](image/Home_page.PNG)
 > "Index web view"
 
-![Index continued](images/.PNG)
+![Index continued](images/Home_page1.PNG)
 > "Index web view continued"
 
-![Portfolio page](images/.PNG)
-> "Portfolio web view"
+![Portfolio page](images/Services_page.PNG)
+> "Services web view"
 
-![Contact page](images/.PNG)
+![Contact page](images/Contact_page.PNG)
 > "Contact web view"
